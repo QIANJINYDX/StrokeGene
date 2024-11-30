@@ -48,7 +48,7 @@ Save the files into the vector_db folder (if vector_db does not exist, create it
 The project uses Baidu's Wenxin Yiyan API.
 
 ```
-修改地址为 util中的key.py
+Edit the API keys in util/key.py
 class KEY:
      wenxin_api_key="xxx" # Enter your own Wenxin Yiyan API key here
      wenxin_secret_key="xxx"# Enter your own Wenxin Yiyan secret key here
@@ -68,5 +68,5 @@ python run_gradio.py
 
 #### 致谢
 
-感谢[动手学大模型应用开发](https://datawhalechina.github.io/llm-universe/#/)所提供的教学方法。
-
+We would like to thank Hands-on Learning for Large Model Application Development for the educational materials provided.
+https://datawhalechina.github.io/llm-universe/#/
