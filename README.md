@@ -66,7 +66,7 @@ python run_gradio.py
 ![image](https://github.com/user-attachments/assets/cacb4ce4-49ef-4d59-a372-c22a44cc9cbd)
 
 
-#### 致谢
+#### Acknowledgments
 
 We would like to thank Hands-on Learning for Large Model Application Development for the educational materials provided.
 https://datawhalechina.github.io/llm-universe/#/
