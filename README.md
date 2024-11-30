@@ -4,7 +4,8 @@
 
 随着脑卒中研究的深入，海量的学术文献涌现出来，科研工作者面临着文献检索、信息筛选和学术整理的巨大挑战。为了帮助科研人员更高效地获取和理解与脑卒中相关的最新研究成果，我们开发了这款脑卒中智能助手。该助手基于大语言模型（LLM）和自然语言处理（NLP）技术，能够帮助用户快速查询和分析相关文献，为脑卒中的学术研究提供智能支持。
 
-![LLM](F:\Program\Python\IS\文档\LLM.png)
+![image](https://github.com/user-attachments/assets/85ce26d7-85dc-4d7d-b307-6920be3cf361)
+
 
 ## 环境搭建
 
@@ -62,7 +63,8 @@ python run_gradio.py
 
 ## 演示界面
 
-![image-20241130194514072](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20241130194514072.png)
+![image](https://github.com/user-attachments/assets/cacb4ce4-49ef-4d59-a372-c22a44cc9cbd)
+
 
 #### 致谢
 
