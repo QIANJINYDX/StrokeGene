@@ -41,7 +41,7 @@ SapBERT-from-PubMedBERT-fulltext
 
 https://drive.google.com/drive/folders/1S7CF4y1KeT50c4VkWkR7ETWtnzgpkrM3?usp=sharing
 
-并将文件保存到vector_db内
+并将文件保存到vector_db内（如没有vector_db请先在项目根目录创建vector_db）
 
 **修改为自己key**
 
